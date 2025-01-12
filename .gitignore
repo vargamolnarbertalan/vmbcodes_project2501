@@ -1,0 +1,39 @@
+# Python Bytecode Files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+*.log
+*.pot
+*.mo
+coverage/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm IDE files
+.idea/
+
+# VS Code IDE files
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Environment variables file (optional)
+.env
