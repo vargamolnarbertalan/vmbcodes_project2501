@@ -1,0 +1,134 @@
+.footer-holder {
+  background-color: black;
+  color: var(--myTextColor);
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  border-top: 2px solid white;
+  padding: 20px;
+}
+
+.upper-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.upper-footer > div {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.lower-footer {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: fit-content;
+}
+
+.email-btn > div > .button-text {
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.custom_input {
+  display: flex;
+  align-items: center;
+  position: relative;
+  max-width: 100%;
+  height: 100%;
+}
+
+.input {
+  height: 34px;
+  font-size: 18px;
+  padding: 5px 10px;
+  width: 100%;
+  padding-left: 35px;
+  outline: none;
+  background: var(--myBackground);
+  color: var(--myTextColor);
+  border: 2px solid white;
+  border-radius: 10px;
+  transition: 0.3s ease;
+}
+
+.input:focus {
+  border: 1px solid var(--mySecondary);
+  border-radius: 10px;
+}
+
+.svg_icon {
+  position: absolute;
+  left: 10px;
+  fill: white;
+  width: 18px;
+  height: 18px;
+}
+
+.email-interact-holder {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.firm-name {
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+
+  .upper-footer {
+    flex-direction: column;
+  }
+
+  .upper-footer > div {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .email-interact-holder {
+    flex-direction: column;
+  }
+
+  .lower-footer {
+    margin-top: 0px;
+  }
+
+  .email-btn {
+    margin-top: 10px;
+    width: 80%;
+  }
+
+  .email-btn > .button-container {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+
+  .email-field {
+    width: 80%;
+  }
+
+  .footer-list > li{
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
