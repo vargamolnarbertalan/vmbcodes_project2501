@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/css/main.e7da1005.css",
-    "main.js": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/js/main.87e53ea1.js",
-    "static/js/488.fcee4bb3.chunk.js": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/js/488.fcee4bb3.chunk.js",
-    "static/media/drone-loop.gif": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/drone-loop.209bdee694f89e8ef2d9.gif",
-    "static/media/signal.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/signal.3a74c262058b20ce8710.webp",
-    "static/media/tracking.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/tracking.722aac9f4d1f157f5ce6.webp",
-    "static/media/services.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/services.ac6ab4947fc9e4306cf9.webp",
-    "static/media/bullet.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/bullet.95940cf7db5a7f168867.webp",
-    "static/media/protection.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/protection.10de5094201fb6bdd7a4.webp",
-    "static/media/arrow.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/arrow.c65e1e06077c2cd7a9de.webp",
-    "static/media/tick.webp": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/media/tick.f1c26f91666f875029ab.webp",
-    "index.html": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/index.html",
-    "main.e7da1005.css.map": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/css/main.e7da1005.css.map",
-    "main.87e53ea1.js.map": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/js/main.87e53ea1.js.map",
-    "488.fcee4bb3.chunk.js.map": "/vargamolnarbertalan/vmbcodes_project2501/tree/frontend/static/js/488.fcee4bb3.chunk.js.map"
+    "main.css": "/vmbcodes_project2501/static/css/main.582136ac.css",
+    "main.js": "/vmbcodes_project2501/static/js/main.7789a32d.js",
+    "static/js/488.fcee4bb3.chunk.js": "/vmbcodes_project2501/static/js/488.fcee4bb3.chunk.js",
+    "static/media/drone-loop.gif": "/vmbcodes_project2501/static/media/drone-loop.209bdee694f89e8ef2d9.gif",
+    "static/media/signal.webp": "/vmbcodes_project2501/static/media/signal.3a74c262058b20ce8710.webp",
+    "static/media/tracking.webp": "/vmbcodes_project2501/static/media/tracking.722aac9f4d1f157f5ce6.webp",
+    "static/media/services.webp": "/vmbcodes_project2501/static/media/services.ac6ab4947fc9e4306cf9.webp",
+    "static/media/bullet.webp": "/vmbcodes_project2501/static/media/bullet.95940cf7db5a7f168867.webp",
+    "static/media/protection.webp": "/vmbcodes_project2501/static/media/protection.10de5094201fb6bdd7a4.webp",
+    "static/media/arrow.webp": "/vmbcodes_project2501/static/media/arrow.c65e1e06077c2cd7a9de.webp",
+    "static/media/tick.webp": "/vmbcodes_project2501/static/media/tick.f1c26f91666f875029ab.webp",
+    "index.html": "/vmbcodes_project2501/index.html",
+    "main.582136ac.css.map": "/vmbcodes_project2501/static/css/main.582136ac.css.map",
+    "main.7789a32d.js.map": "/vmbcodes_project2501/static/js/main.7789a32d.js.map",
+    "488.fcee4bb3.chunk.js.map": "/vmbcodes_project2501/static/js/488.fcee4bb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7da1005.css",
-    "static/js/main.87e53ea1.js"
+    "static/css/main.582136ac.css",
+    "static/js/main.7789a32d.js"
   ]
 }
